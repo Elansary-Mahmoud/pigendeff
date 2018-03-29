@@ -1,0 +1,12 @@
+c:\users\elansary\documents\visual studio 2010\Projects\porc_Test\porc_Test\bin\Debug\porc_Test.exe
+c:\users\elansary\documents\visual studio 2010\Projects\porc_Test\porc_Test\bin\Debug\porc_Test.pdb
+c:\users\elansary\documents\visual studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\elansary\documents\visual studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\porc_Test.exe
+c:\users\elansary\documents\visual studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\porc_Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\porc_Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\porc_Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_Test\porc_Test\bin\Debug\porc_Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_Test\porc_Test\bin\Debug\porc_Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_Test\porc_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_V2\porc_Test\obj\x86\Debug\porc_Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\porc_V2\porc_Test\obj\x86\Debug\porc_Test.pdb
