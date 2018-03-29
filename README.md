@@ -5,9 +5,8 @@
 
 # pigendeff
 
-The all the code related to the project PIGENDEFF.
-
 Project description
+
 PIGENDEF is a research project that bundles the expertise of three research partners and five SME partners in order to find genes and mutations underlying congenital genetic defects in pigs. 
 logo pigendefCongenital diseases are quite common in swine and cover a range of conditions. The most important congenital genetic defects that occur in piglets are hernias (umbilical hernia and inguinal or scrotal hernias), cryptorchidism and splay legs, and to a lesser extent intersexuality, anal atresia and progressive ataxia and spastic paresis. All together, these disorders affect on average 3% of pigs in commercial populations worldwide. In Europe the economic loss due to these congenital defects is estimated at 200 million euros per year. However, besides the economic loss, these defects also have a serious impact on animal welfare and health. Some of the defects cause direct piglet mortality, while others lead to culling of piglets. 
 This project focuses on the rapid identification of genes underlying congenital disorders, more specifically umbilical and scrotal hernias and cryptorchidism, in pigs for effective marker assisted selection (MAS) against these defects. For most of these defects there are strong indications for a genetic component and different research groups all over Europe have made efforts to find the underlying causative genetic mechanisms. However, the mode of inheritance seems complex and no genes or mutations have been identified yet.
