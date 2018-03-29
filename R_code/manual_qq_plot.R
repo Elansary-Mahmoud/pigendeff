@@ -1,0 +1,20 @@
+install.packages("hwde")
+library(hwde)
+setwd("C:\\Users\\Administrator\\Documents\\Visual Studio 2010\\Projects\\porc_Test")
+pvalues = read.table("input.txt",h=F)
+plot((1:3),pvalues$V1)
+hist(pvalues$V1,xlab = "p values",main ="Histogram of Line 23+36 X CHR")
+m = nrow(pvalues)
+plot(x=-log10((1:m)/(m+1)), y = -log10(sort(pvalues$V1)),xlab = "-log10(Expected p value)",ylab = "-log10(Observed p value)", main = "Line 12 X CHR")
+abline(a=0,b=1)
+abline(h=3.5)
+abline(h=3)
+abline(h=4)
+-log10(0.001)
+-log10(0.0003162278)
+u <- cbind(runif(54596),runif(54596),runif(54596),runif(54596),runif(54596))
+write.table(u[,1:5], file = "uniform_pvalues.txt", sep  = "\t", quote = FALSE, row.names = FALSE);
+
+format(10^-5,scientific = F)
+
+-log10(10^-3)

@@ -1,0 +1,5 @@
+setwd("D:\\Master of Bioinformatics\\GIGA Lab\\Analysis\\families\\RG disease")
+Markers <- read.table("plink.lmendel", header=T)
+Indv <- read.table("plink.imendel", header=T)
+hist(Markers$N)
+hist(Indv$N)
