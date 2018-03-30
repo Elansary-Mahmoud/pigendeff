@@ -1,7 +1,8 @@
-<img src="https://www.biw.kuleuven.be/GENLOG/Pigendef/Images/Pigendef.jpg" width="250" height="200" />
-<img src="https://www.biw.kuleuven.be/GENLOG/Pigendef/Images/EU.jpg" width="250" height="200" />
-<img src="https://www.biw.kuleuven.be/genlog/livgen/pictures/logo_pig.png" width="250" height="200" />
-
+<div style="height:705px;">
+  <img src="https://www.biw.kuleuven.be/GENLOG/Pigendef/Images/Pigendef.jpg" width="250" height="200" />
+  <img src="https://www.biw.kuleuven.be/GENLOG/Pigendef/Images/EU.jpg" width="250" height="200" />
+  <img src="https://www.biw.kuleuven.be/genlog/livgen/pictures/logo_pig.png" width="250" height="200" />
+</div>
 
 # pigendeff
 
