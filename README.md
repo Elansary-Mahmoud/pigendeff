@@ -33,7 +33,7 @@ The PIGENDEF project is coordinated by the research unit Livestock genetics of K
 The 5 SME partners of the PIGENDEF consortium are companies active in pig breeding. These companies with experience in pig genetic research ensure the availability of resource populations and guarantee the exploitation of the results in favor of the pig breeding community. The two core SME partners, Rattlerow-Seghers N.V. (Belgium) and Norsvin (Norway), are providing samples and datasets of affected piglets and/or unaffected siblings and their parents within their lines. These partners acquire the intellectual property and organize the implementation of the results. The other SME partners, Santa Fosca (Italy), Nordic Genetics (Sweden) and Selección Batallé S.A. (Spain)
 </p>
 
-## Related publication:
+## Related publication
 
 Elansary, M. , Stinckens, A. , Ahariz, N. , Cambisano, N. , Coppieters, W. , Grindflek, E. , Son, M. , Buys, N. and Georges, M. (2015), On the use of the transmission disequilibrium test to detect pseudo‐autosomal variants affecting traits with sex‐limited expression. Anim Genet, 46: 395-402. doi:10.1111/age.12296
 
